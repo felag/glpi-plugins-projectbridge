@@ -488,8 +488,9 @@ msgid "Expected end date"
 msgstr "Date de fin requise"
 
 #: inc/task.class.php:930 inc/task.class.php:1000
+#, fuzzy
 msgctxt "projectbridge"
-msgid "This Email si send automacitly by the plugin projectBridge"
+msgid "This Email is send automacitly by the plugin projectBridge"
 msgstr "Ce courriel a été envoyé automatiquement par le plugin projectBridge"
 
 #: inc/task.class.php:968 inc/task.class.php:972

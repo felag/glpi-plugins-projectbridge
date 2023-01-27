@@ -481,7 +481,7 @@ msgstr "Expected end date"
 
 #: inc/task.class.php:930 inc/task.class.php:1000
 msgctxt "projectbridge"
-msgid "This Email si send automacitly by the plugin projectBridge"
+msgid "This Email is send automacitly by the plugin projectBridge"
 msgstr ""
 
 #: inc/task.class.php:968 inc/task.class.php:972
