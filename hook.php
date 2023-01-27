@@ -373,7 +373,7 @@ function plugin_projectbridge_contract_add(Contract $contract, $force = false)
         }
 
         if (empty($begin_date)) {
-            Session::addMessageAfterRedirect(__('The contract has no start date. The project could not be created', 'projectbridge'), false, ERROR);
+            Session::addMessageAfterRedirect(__('The contract has no start date. The project could not be created.', 'projectbridge'), false, ERROR);
             return false;
         }
 
@@ -421,7 +421,7 @@ function plugin_projectbridge_contract_add(Contract $contract, $force = false)
         $state_in_progress_value = PluginProjectbridgeState::getProjectStateIdByStatus('in_progress');
 
         if (empty($state_in_progress_value)) {
-            Session::addMessageAfterRedirect(__('The correspondence for the status "In progress" has not been defined. The project could not be created', 'projectbridge'), false, ERROR);
+            Session::addMessageAfterRedirect(__('The correspondence for the status "In progress" has not been defined. The project could not be created.', 'projectbridge'), false, ERROR);
             return false;
         }
 

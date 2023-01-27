@@ -29,13 +29,13 @@ msgstr  ""
 
 #: hook.php:376
 msgctxt "projectbridge"
-msgid   "The contract has no start date. The project could not be created"
+msgid   "The contract has no start date. The project could not be created."
 msgstr  ""
 
 #: hook.php:424
 msgctxt "projectbridge"
 msgid   "The correspondence for the status \"In progress\" has not been "
-        "defined. The project could not be created"
+        "defined. The project could not be created."
 msgstr  ""
 
 #: hook.php:492 inc/ticket.class.php:112
