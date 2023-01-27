@@ -194,7 +194,7 @@ msgstr "Obnovení"
 
 #: front/config.form.php:268
 msgctxt "projectbridge"
-msgid "The selected user have no default email adress configured"
+msgid "The selected user has no default email adress configured"
 msgstr ""
 
 #: front/config.form.php:276

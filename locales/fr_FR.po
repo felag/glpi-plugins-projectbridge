@@ -187,8 +187,9 @@ msgid "Renewal"
 msgstr "Renouveler"
 
 #: front/config.form.php:268
+#, fuzzy
 msgctxt "projectbridge"
-msgid "The selected user have no default email adress configured"
+msgid "The selected user has no default email adress configured"
 msgstr "L'utilisateur sélectionné n'a pas d'adresse de messagerie configurée"
 
 #: front/config.form.php:276
