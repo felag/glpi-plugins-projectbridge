@@ -379,8 +379,9 @@ msgid "Contract Alert to renew"
 msgstr "Alerte de contrat à renouveler"
 
 #: inc/task.class.php:94
+#, fuzzy
 msgctxt "projectbridge"
-msgid "Send email alert containing contract with consummation over quota"
+msgid "Send email alert containing contract with consumption over quota"
 msgstr ""
 "Envoyer l'alerte contentant les contrats avec une consommation dépassée"
 

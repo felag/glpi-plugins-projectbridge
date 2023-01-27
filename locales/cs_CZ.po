@@ -381,7 +381,7 @@ msgstr "Výstraha ohledně obnovení smlouvy"
 
 #: inc/task.class.php:94
 msgctxt "projectbridge"
-msgid "Send email alert containing contract with consummation over quota"
+msgid "Send email alert containing contract with consumption over quota"
 msgstr ""
 
 #: inc/task.class.php:119 inc/task.class.php:851 inc/task.class.php:957

@@ -91,7 +91,7 @@ class PluginProjectbridgeTask extends CommonDBTM
                 break;
             case 'AlertContractsOverQuota':
                 $return = [
-                    'description' => __('Send email alert containing contract with consummation over quota', 'projectbridge'),
+                    'description' => __('Send email alert containing contract with consumption over quota', 'projectbridge'),
                 ];
                 break;
         }
