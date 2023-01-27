@@ -214,48 +214,6 @@ msgctxt "projectbridge"
 msgid   "Global percentage quota to send alert notification"
 msgstr  ""
 
-#: front/config.form.php:423
-msgid   "Task"
-msgid_plural    "Tasks"
-msgstr[0]       ""
-msgstr[1]       ""
-
-#: front/config.form.php:424
-msgid   "Followup"
-msgid_plural    "Followup"
-msgstr[0]       ""
-msgstr[1]       ""
-
-#: front/config.form.php:425
-msgid   "Document"
-msgid_plural    "Documents"
-msgstr[0]       ""
-msgstr[1]       ""
-
-#: front/config.form.php:426
-msgid   "Solution"
-msgid_plural    "Solutions"
-msgstr[0]       ""
-msgstr[1]       ""
-
-#: front/config.form.php:427
-msgid   "Ticket"
-msgid_plural    "Tickets"
-msgstr[0]       ""
-msgstr[1]       ""
-
-#: front/config.form.php:428
-msgid   "Requester group"
-msgid_plural    "Requester groups"
-msgstr[0]       ""
-msgstr[1]       ""
-
-#: front/config.form.php:433
-msgid   "Watcher group"
-msgid_plural    "Watcher groups"
-msgstr[0]       ""
-msgstr[1]       ""
-
 #: front/config.form.php:447
 msgctxt "projectbridge"
 msgid   "Elements from previous ticket to be associated with renewed ticket"
@@ -286,12 +244,6 @@ msgctxt "projectbridge"
 msgid   "Warning ! No associate projectTask with \"In progress\" status exist"
 msgstr  ""
 
-#: inc/contract.class.php:230 inc/contract.class.php:234
-msgid   "Hour"
-msgid_plural    "Hours"
-msgstr[0]       ""
-msgstr[1]       ""
-
 #: inc/contract.class.php:251
 msgctxt "projectbridge"
 msgid   "Expired in less than 24h"
@@ -301,12 +253,6 @@ msgstr  ""
 msgctxt "projectbridge"
 msgid   "Expired in"
 msgstr  ""
-
-#: inc/contract.class.php:253 inc/contract.class.php:260
-msgid   "Day"
-msgid_plural    "Days"
-msgstr[0]       ""
-msgstr[1]       ""
 
 #: inc/contract.class.php:258
 msgctxt "projectbridge"
@@ -322,12 +268,6 @@ msgstr  ""
 msgctxt "projectbridge"
 msgid   "Renew the contract"
 msgstr  ""
-
-#: inc/contract.class.php:290
-msgid   "month"
-msgid_plural    "months"
-msgstr[0]       ""
-msgstr[1]       ""
 
 #: inc/contract.class.php:299 inc/contract.class.php:576
 msgctxt "projectbridge"
@@ -545,9 +485,3 @@ msgstr  ""
 msgctxt "projectbridge"
 msgid   "Link(s) with project task(s) deleted"
 msgstr  ""
-
-#: js/projectbridge.js.php:12
-msgid   "Plugin"
-msgid_plural    "Plugins"
-msgstr[0]       ""
-msgstr[1]       ""

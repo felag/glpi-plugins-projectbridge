@@ -229,48 +229,6 @@ msgctxt "projectbridge"
 msgid "Global percentage quota to send alert notification"
 msgstr "Pourcentage de consommation auquel envoyer une alerte"
 
-#: front/config.form.php:423
-msgid "Task"
-msgid_plural "Tasks"
-msgstr[0] "Tâche"
-msgstr[1] "Tâches"
-
-#: front/config.form.php:424
-msgid "Followup"
-msgid_plural "Followup"
-msgstr[0] "Suivi"
-msgstr[1] "Suivis"
-
-#: front/config.form.php:425
-msgid "Document"
-msgid_plural "Documents"
-msgstr[0] "Document"
-msgstr[1] "Documents"
-
-#: front/config.form.php:426
-msgid "Solution"
-msgid_plural "Solutions"
-msgstr[0] "Consommation"
-msgstr[1] "Consommation"
-
-#: front/config.form.php:427
-msgid "Ticket"
-msgid_plural "Tickets"
-msgstr[0] "Ticket"
-msgstr[1] "Tickets"
-
-#: front/config.form.php:428
-msgid "Requester group"
-msgid_plural "Requester groups"
-msgstr[0] "Groupe de demandeur"
-msgstr[1] "Groupes de demandeur"
-
-#: front/config.form.php:433
-msgid "Watcher group"
-msgid_plural "Watcher groups"
-msgstr[0] "Groupe d'observateur"
-msgstr[1] "Groupes d'observateurs"
-
 #: front/config.form.php:447
 msgctxt "projectbridge"
 msgid "Elements from previous ticket to be associated with renewed ticket"
@@ -304,12 +262,6 @@ msgid "Warning ! No associate projectTask with \"In progress\" status exist"
 msgstr ""
 "Attention ! Il n'y a pas de tâche de projet avec le statut \"En cours\""
 
-#: inc/contract.class.php:230 inc/contract.class.php:234
-msgid "Hour"
-msgid_plural "Hours"
-msgstr[0] "Heure"
-msgstr[1] "Heures"
-
 #: inc/contract.class.php:251
 msgctxt "projectbridge"
 msgid "Expired in less than 24h"
@@ -319,12 +271,6 @@ msgstr "Expire dans moins de 24h"
 msgctxt "projectbridge"
 msgid "Expired in"
 msgstr "Expire dans"
-
-#: inc/contract.class.php:253 inc/contract.class.php:260
-msgid "Day"
-msgid_plural "Days"
-msgstr[0] "Jour"
-msgstr[1] "Jours"
 
 #: inc/contract.class.php:258
 msgctxt "projectbridge"
@@ -340,12 +286,6 @@ msgstr "Expiré depuis"
 msgctxt "projectbridge"
 msgid "Renew the contract"
 msgstr "Renouveler le contrat"
-
-#: inc/contract.class.php:290
-msgid "month"
-msgid_plural "months"
-msgstr[0] "mois"
-msgstr[1] "mois"
 
 #: inc/contract.class.php:299 inc/contract.class.php:576
 msgctxt "projectbridge"
@@ -570,11 +510,60 @@ msgctxt "projectbridge"
 msgid "Link(s) with project task(s) deleted"
 msgstr "Lien (s) avec la (les) tâche (s) de projet supprimée"
 
-#: js/projectbridge.js.php:12
-msgid "Plugin"
-msgid_plural "Plugins"
-msgstr[0] "Plugin"
-msgstr[1] "Plugins"
+#~ msgid "Task"
+#~ msgid_plural "Tasks"
+#~ msgstr[0] "Tâche"
+#~ msgstr[1] "Tâches"
+
+#~ msgid "Followup"
+#~ msgid_plural "Followup"
+#~ msgstr[0] "Suivi"
+#~ msgstr[1] "Suivis"
+
+#~ msgid "Document"
+#~ msgid_plural "Documents"
+#~ msgstr[0] "Document"
+#~ msgstr[1] "Documents"
+
+#~ msgid "Solution"
+#~ msgid_plural "Solutions"
+#~ msgstr[0] "Consommation"
+#~ msgstr[1] "Consommation"
+
+#~ msgid "Ticket"
+#~ msgid_plural "Tickets"
+#~ msgstr[0] "Ticket"
+#~ msgstr[1] "Tickets"
+
+#~ msgid "Requester group"
+#~ msgid_plural "Requester groups"
+#~ msgstr[0] "Groupe de demandeur"
+#~ msgstr[1] "Groupes de demandeur"
+
+#~ msgid "Watcher group"
+#~ msgid_plural "Watcher groups"
+#~ msgstr[0] "Groupe d'observateur"
+#~ msgstr[1] "Groupes d'observateurs"
+
+#~ msgid "Hour"
+#~ msgid_plural "Hours"
+#~ msgstr[0] "Heure"
+#~ msgstr[1] "Heures"
+
+#~ msgid "Day"
+#~ msgid_plural "Days"
+#~ msgstr[0] "Jour"
+#~ msgstr[1] "Jours"
+
+#~ msgid "month"
+#~ msgid_plural "months"
+#~ msgstr[0] "mois"
+#~ msgstr[1] "mois"
+
+#~ msgid "Plugin"
+#~ msgid_plural "Plugins"
+#~ msgstr[0] "Plugin"
+#~ msgstr[1] "Plugins"
 
 #~ msgctxt "projectbridge"
 #~ msgid "Overtaking"
