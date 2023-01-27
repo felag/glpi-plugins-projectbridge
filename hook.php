@@ -692,7 +692,7 @@ function plugin_projectbridge_getAddSearchOptionsNew($itemtype)
               'id' => 4214,
               'table' => PluginProjectbridgeTicket::$table_name,
               'field' => 'project_id',
-              'name' => __('Is link to a project task', 'projectbridge').' ?',
+              'name' => __('Is linked to a project task', 'projectbridge').' ?',
               'massiveaction' => false,
               'datatype' => 'bool'
             ];
